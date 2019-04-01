@@ -1,0 +1,2 @@
+# OS-Project
+In the question it was given that 10 students are going to a gift shop and selecting random number of gifts and arriving to the billing counter randomly.The shop keeper is giving priority to the students who were having more number of gifts.So, I have taken arrival time of student to the billing counter from the user and taken number of gifts selected by each and every student from the user.I have considered 1 second for billing each gift,So i have taken burst time same as number of gifts picked by a student. 
